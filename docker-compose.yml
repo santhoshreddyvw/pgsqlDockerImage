@@ -12,5 +12,5 @@ services:
       - POSTGRES_USER=citizix_user
       - POSTGRES_DB=citizix_db
 
-      # added new line commment wedzddll
+      # changed the text to create merge conflict
       # lsddmdamsdl
