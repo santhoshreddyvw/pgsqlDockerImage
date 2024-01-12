@@ -12,5 +12,10 @@ services:
       - POSTGRES_USER=citizix_user
       - POSTGRES_DB=citizix_db
 
-      # changed the text to create merge conflict
+
+      # added new line commment wedzddll
       # lsddmdamsdl
+      # LVP created new branch for POC
+      # poc is DONE!
+      # lsddmdamsdl santhosh-420 santhosh-bad boy
+
