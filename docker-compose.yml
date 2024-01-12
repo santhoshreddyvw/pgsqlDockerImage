@@ -12,4 +12,5 @@ services:
       - POSTGRES_USER=citizix_user
       - POSTGRES_DB=citizix_db
 
-      # added new line commment 
+      # added new line commment wedzddll
+      # lsddmdamsdl
