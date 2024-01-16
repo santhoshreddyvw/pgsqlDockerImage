@@ -11,3 +11,6 @@ services:
       - POSTGRES_PASSWORD=S3cret
       - POSTGRES_USER=citizix_user
       - POSTGRES_DB=citizix_db
+
+
+      #New Link Added by Santhosh
